@@ -8,7 +8,7 @@ This is the public issue tracker. Issue reports for bugs or features requests ar
 Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
 
 ## Privacy
-All your tabs & queries are saved locally in your browser and uploaded data and queries never leave your browser.
+All your tabs and queries are stored locally in your browser, and any uploaded data never leaves your device. We use Posthog and Cloudflare for analytics and instrument page view activities and metadata around query execution, discarding queries.
 
 ## Changelog
 
