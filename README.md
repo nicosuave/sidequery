@@ -1,11 +1,11 @@
 # sidequery
 
-This is the public issue tracker for [sidequery.ai](https://sidequery.ai).
+[sidequery.ai](https://sidequery.ai): Query & visualize remote & local CSV and Parquet with DuckDB in your browser. 
 
-Issues for bugs or features requests are much appreciated! 😎
+This is the public issue tracker. Issue reports for bugs or features requests are much appreciated! 😎
 
 ## Getting Started
-Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. Query & visualize remote & local CSV and Parquet with DuckDB in your browser.
+Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
 
 ## Privacy
 All your tabs & queries are saved locally in your browser and uploaded data and queries never leave your browser.
