@@ -8,6 +8,17 @@ This is the public issue tracker, changelog, and privacy policy, all in one. Iss
 Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
 
 ## Changelog
+- `2024-09-07`
+  - Column summaries
+    - Hover over a column in the documentation sidebar and you'll get statistics for the column
+  - Table peek
+    - When you hover over a table name, you'll now see an eye icon. Clicking that will load 10,000 results into the results browser.
+      - Look, ma— no SQL required
+  - Sharing
+    - Each time you run a query, the URL will be updated, encoding your query as part of the URL so you can share it
+    - If you open a shared url, the shared query will open in a new editor tab
+  - Bugfixes
+    - Sort order is now properly reset when the results are updated
 
 - `2024-09-07`
   - Faster file "uploads"
