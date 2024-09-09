@@ -46,6 +46,4 @@ We value your privacy and strive to ensure that your data is handled securely an
    - Anonymous usage statistics (e.g., page views, feature usage)
    - Technical information (e.g., browser type, device type)
 
-   No actual query content, results, or personal data are ever collected or stored by our analytics tools.
-
-   For more details on our data practices, please refer to our Privacy Policy.
+   No specific query content, results, or personal data are ever collected or stored by our analytics tools.
