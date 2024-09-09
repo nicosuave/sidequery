@@ -8,7 +8,7 @@ This is the public issue tracker, changelog, and privacy policy, all in one. Iss
 Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
 
 ## Changelog
-- `2024-09-07`
+- `2024-09-08`
   - Column summaries
     - Hover over a column in the documentation sidebar and you'll get statistics for the column
   - Table peek
