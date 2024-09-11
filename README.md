@@ -8,6 +8,10 @@ This is the changelog, privacy policy & public issue tracker, all in one. Bug re
 Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
 
 ## Changelog
+- `2024-09-11`
+  - Folder refresh
+    - If you attached a folder of files, you can now add more files & refresh the tables (actually views)
+
 - `2024-09-09`
   - CSV exports
   - Rearranged chart configuration
