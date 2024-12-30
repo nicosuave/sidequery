@@ -1,11 +1,11 @@
 # sidequery
 
-[sidequery.ai](https://sidequery.ai): Query & visualize remote & local CSV and Parquet with DuckDB in your browser. 
+[sidequery.dev](https://sidequery.dev): Query & visualize remote & local CSV and Parquet with DuckDB in your browser. 
 
 This is the changelog, privacy policy & public issue tracker, all in one. Bug reports or feature requests are much appreciated!
 
 ## Getting Started
-Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
+Check out [sidequery.dev](https://sidequery.dev) to get started— no login required. 
 
 ## Changelog
 - `2024-12-29`
@@ -18,6 +18,7 @@ Check out [sidequery.ai](https://sidequery.ai) to get started— no login requi
   - Improve dark mode
 
 - `2024-11-30`
+
   - Connected directory persistence
     - Directories will now remain connected between sessions. No more manual reconnecting directories.
   - New tutorial screen
@@ -28,6 +29,8 @@ Check out [sidequery.ai](https://sidequery.ai) to get started— no login requi
     - You can now save queries for easy reference in the future
   - New sidebar
     - Update to new styling
+
+      <img src="new_sidebar_2024.png" alt="Sidebar 2024" width="600">
 
 - `2024-09-11`
   - Folder refresh
