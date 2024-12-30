@@ -10,7 +10,8 @@ Check out [sidequery.ai](https://sidequery.ai) to get started— no login requi
 ## Changelog
 - `2024-12-29`
   - Update branding (thanks Terry!)
-  - Add more social links (Discord, Twitter, Linkedin)
+  - Add more social links
+    - Discord, Twitter + Linkedin
   - Improve dark mode for query history & favorites
 
 - `2024-12-06`
