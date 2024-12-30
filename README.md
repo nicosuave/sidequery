@@ -15,9 +15,11 @@ Check out [sidequery.ai](https://sidequery.ai) to get started— no login requi
   - Improve dark mode for query history & favorites
 
 - `2024-12-06`
-  - Immprove dark mode
+  - Improve dark mode
 
 - `2024-11-30`
+  - Connected directory persistence
+    - Directories will now remain connected between sessions. No more manual reconnecting directories.
   - New tutorial screen
     - Also links out to privacy policy below
   - Query history
