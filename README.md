@@ -1,4 +1,4 @@
-# sidequery
+<img src="sq_text.svg" alt="Sidebar 2024" width="600">
 
 [sidequery.dev](https://sidequery.dev): Query & visualize remote & local CSV and Parquet with DuckDB in your browser. 
 
