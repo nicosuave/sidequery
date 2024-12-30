@@ -8,6 +8,24 @@ This is the changelog, privacy policy & public issue tracker, all in one. Bug re
 Check out [sidequery.ai](https://sidequery.ai) to get started— no login required. 
 
 ## Changelog
+- `2024-12-29`
+  - Update branding (thanks Terry!)
+  - Add more social links (Discord, Twitter, Linkedin)
+  - Improve dark mode for query history & favorites
+
+- `2024-12-06`
+  - Immprove dark mode
+
+- `2024-11-30`
+  - New tutorial screen
+    - Also links out to privacy policy below
+  - Query history
+    - Records all queries you've issued. All stored in your browser
+  - Saved queries
+    - You can now save queries for easy reference in the future
+  - New sidebar
+    - Update to new styling
+
 - `2024-09-11`
   - Folder refresh
     - If you attached a folder of files, you can now add more files & refresh the tables (actually views)
